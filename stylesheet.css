@@ -1,0 +1,23 @@
+.tickettext {
+    color: red;
+    font-size: medium;
+}
+.centered {
+    text-align: center;
+}
+/*.itemproperty {
+    width: 25%;
+    float: left;
+}*/
+.collection-item {
+    clear: both;
+}
+
+.no {
+    margin: 0%;
+    padding: 0%;
+}
+.newfont {
+    font-family: 'Pangolin', cursive;
+}
+
